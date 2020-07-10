@@ -22,6 +22,10 @@
     4. `ctrl + f`로 `todo` 검색, 적혀있는 설명을 따라 코드 수정
     5. `index.html`에 자기 파일을 연결
     6. 자기가 정한 이미지 연결
+
+브랜치에 변경사항들을 push 한다.
+
+github에 들어와서 pull-request를 날린다.
    
 여기서 gif 사이즈 편집 가능: [링크](https://ezgif.com/resize)
 
