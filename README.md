@@ -4,15 +4,15 @@
 
 이 repository를 clone 한다.
 
-    - `git clone git@github.com:daniel2231/git-exercise-dds.git`
+`git clone git@github.com:daniel2231/git-exercise-dds.git`
 
 자기 이름을 브랜치를 하나 생성한다.
 
-    - `git branch <브랜치 이름>`
+`git branch <브랜치 이름>`
 
 생성된 브랜치로 이동한다.
 
-    - `git checkout <브랜치 이름>`
+`git checkout <브랜치 이름>`
 
 생성된 브랜치에서 작업을 진행한다.
 
@@ -22,6 +22,8 @@
     4. `ctrl + f`로 `todo` 검색, 적혀있는 설명을 따라 코드 수정
     5. `index.html`에 자기 파일을 연결
     6. 자기가 정한 이미지 연결
+
+'Push하기 전 Pull을 해준다.
 
 브랜치에 변경사항들을 push 한다.
 
